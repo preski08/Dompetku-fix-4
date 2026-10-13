@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-10-12",
+  "description": "Sample data Go Work - pekerja lokal (demo). Profil nyata user akan disimpan di localStorage.",
+  "listings": [
+    {
+      "id": "demo-budi44",
+      "userId": "budi44",
+      "name": "Budi44",
+      "skills": ["Potong Rumput", "Babat Kebun"],
+      "desc": "Upah potong rumput halaman 80.000 / jam. Alat sendiri.",
+      "price": "Rp 80.000",
+      "lat": -6.1800,
+      "lng": 106.8200,
+      "online": true
+    },
+    {
+      "id": "demo-andi",
+      "userId": "andiservice",
+      "name": "Andi Service",
+      "skills": ["Bengkel Mobil", "Servis Panggil"],
+      "desc": "Servis panggilan mobil & motor. Cek oli, aki, rem.",
+      "price": "Rp 50.000",
+      "lat": -6.1900,
+      "lng": 106.8300,
+      "online": true
+    },
+    {
+      "id": "demo-listrik",
+      "userId": "tukanglistrik",
+      "name": "Tukang Listrik Jaya",
+      "skills": ["Teknisi Listrik", "Pasang Colokan"],
+      "desc": "Pasang colokan & lampu. Upah pasang 1 colokan 80.000",
+      "price": "Rp 75.000",
+      "lat": -6.1700,
+      "lng": 106.8100,
+      "online": true
+    },
+    {
+      "id": "demo-slamet",
+      "userId": "slametbangunan",
+      "name": "Slamet Bangunan",
+      "skills": ["Tukang Bangunan", "Renovasi"],
+      "desc": "Borongan / harian. Bisa renovasi rumah kecil.",
+      "price": "Rp 150.000",
+      "lat": -6.1850,
+      "lng": 106.8150,
+      "online": false
+    },
+    {
+      "id": "demo-joko",
+      "userId": "jokoelektronik",
+      "name": "Joko Elektronik",
+      "skills": ["Teknisi Listrik", "AC", "Kulkas"],
+      "desc": "Perbaikan kulkas, AC, mesin cuci. Garansi 7 hari.",
+      "price": "Rp 100.000",
+      "lat": -6.1950,
+      "lng": 106.8250,
+      "online": true
+    }
+  ]
+}
